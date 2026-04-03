@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+#  finance_dashboard
 
 TODO: Document your project here
